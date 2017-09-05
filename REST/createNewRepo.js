@@ -3,8 +3,8 @@ var fs = require("fs");
 var Promise = require('bluebird');
 var parse = require('parse-link-header');
 
-var token = "token " + "aed91c8d10d8e9b43bb204d07d91d4122d1b13de";
-var userId = "yashvora21";
+var token = "token " + "<your-token-here>";
+var userId = "<your-username-here>";
 
 var urlRoot = "https://api.github.com";
 // NCSU Enterprise endpoint:
@@ -23,7 +23,7 @@ function createNewRepo()
 			"Authorization": token
 		},
 		json:	{
-			"name": "MyNewRESTRepo0",
+			"name": "MyNewRESTRepo",
 			"description": "This is the first REST created repository",
 			"homepage": "https://github.com",
 			"private": true,
