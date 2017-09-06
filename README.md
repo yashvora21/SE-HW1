@@ -20,7 +20,10 @@ This Repository consists of all the material pertaining to the Submission for HW
 ### Concepts
 
 **1. Some concerns related to REST apis** :
-
+  * REST APIs usually has multiple endpoints representing every resource. This basically requires clients to perform multiple round trips to the server to get all the data it requires.
+  * REST APIs does not have a client request language due to which clients do not have control over what data the server will return. Hence, the language available for client is very limited.
+  * Based on the above pitfall, the client cannot specify which fields to select for a record in that resource. That information is in the REST API service itself which will always return all of the fields regardless of which ones the client actually needs resulting in a lot of network and memory resources wastage for both client and server.
+  * 
 
 
 **2. Compare and contrast the benefits and disadvantages of using a RESTful architecture vs. a graph query language.** :
