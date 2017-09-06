@@ -31,7 +31,7 @@ This Repository consists of all the material pertaining to the Submission for HW
 | --------------------------------------------------| --------------------------------------------|
 | 1. To fetch all the initial data required by a view, we need to introduce unstructured parameters and conditions that are hard to manage and scale.    | 1. All the initial data required by a view can be fetched by Graph Query Language in just a single round trip to server.         |
 |                                                   |                                             |
-| 2. When utilizing protocols such as HTTP, REST can leverage HTTP content-types,caching.status codes,etc |  2. GraphQL invents its own conventions while utilizing its protocols. |                         
+| 2. When utilizing protocols such as HTTP, REST can leverage HTTP content-types, caching, status codes,etc |  2. GraphQL invents its own conventions while utilizing its protocols. |                         
 |                                                   |                                              |
 | 3. Hypermedia controls in REST lets a well designed client run around an API like a user browses through the internet to find some information.  | 3. If the API is not using hypermdeia controls, then GraphQL could be a more relevant approach.|
 |                                                   |                                               |
