@@ -12,4 +12,4 @@
 
 ![img](https://github.ncsu.edu/yvora/HW1/blob/gh-pages/images/pic.jpg)
 
-# Submissions for this assignment can be found at : https://github.ncsu.edu/yvora/HW1 
+## Submissions for this assignment can be found at : https://github.ncsu.edu/yvora/HW1 
