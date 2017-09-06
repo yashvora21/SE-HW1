@@ -44,8 +44,8 @@ This Repository consists of all the material pertaining to the Submission for HW
 | 7. In REST, the shape and size of the resource is determined by the server.  | 7. In GraphQL, the server declares what resources are available, and the client asks for what it needs at the time. |
 
 
-### URL to Gh-Pages:
-# https://pages.github.ncsu.edu/yvora/HW1
+## URL to Gh-Pages:
+### https://pages.github.ncsu.edu/yvora/HW1
 
 
 
