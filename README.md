@@ -1,5 +1,5 @@
-# Created and managed by:                         ![img]()
-**Name** : Yash Vora <br/>
+# Created and managed by:
+**Name** : Yash Vora <br/>                        ![img](https://github.ncsu.edu/yvora/HW1/blob/gh-pages/images/pic.jpg)
 **Unity Id** : yvora <br/>
 **Student ID**: 200149815
 
