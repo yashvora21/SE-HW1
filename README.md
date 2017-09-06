@@ -1,5 +1,5 @@
 # Created and managed by:
-**Name** : Yash Vora <br/>
+# ![img](https://github.ncsu.edu/yvora/HW1/blob/gh-pages/images/pic.jpg) Yash Vora<br/> 
 **Unity Id** : yvora <br/>
 **Student ID**: 200149815
 
@@ -9,7 +9,5 @@
  * I have 3 years of industry experience before joining NC State working for companies like L&T Infotech and Altimetrik 
  * I have an expertise in numerous programming languages such as Java, C++, HTML5, Css3, php, JQuery, Golang
  * I love music, dancing, exploring new places and meeting new people in my free time
-
-![img](https://github.ncsu.edu/yvora/HW1/blob/gh-pages/images/pic.jpg)
 
 ## Submissions for this assignment can be found at : https://github.ncsu.edu/yvora/HW1 
