@@ -11,3 +11,5 @@
  * I love music, dancing, exploring new places and meeting new people in my free time
 
 ![img](https://github.ncsu.edu/yvora/HW1/blob/gh-pages/images/pic.jpg)
+
+# Submissions for this assignment can be found at : https://github.ncsu.edu/yvora/HW1 
