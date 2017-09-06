@@ -29,9 +29,7 @@ This Repository consists of all the material pertaining to the Submission for HW
 
 | RESTful Architecture                              | Graph Query Language                        |
 | --------------------------------------------------| --------------------------------------------|
-| 1. To fetch all the initial data required by a     1. All the initial data required by a view  |
-| view, we need to introduce unstructured parameters can be fetched by Graph Query Language in   |
-| and conditions that are hard to manage and scale. | just a single round trip to server.         |
+| 1. To fetch all the initial data required by a view, we need to introduce unstructured parameters and conditions that are hard to manage and scale.    | 1. All the initial data required by a view can be fetched by Graph Query Language in just a single round trip to server.         |
 |                                                   |                                             |
 | 2. When utilizing protocols such as HTTP, REST can|  2. GraphQL invents its own conventions while|
 | leverage HTTP content-types,caching.status codes,etc| utilizing its protocols.                   |                         
