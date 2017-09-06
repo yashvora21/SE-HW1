@@ -20,3 +20,15 @@ This Repository consists of all the material pertaining to the Submission for HW
 ### Concepts
 
 **1. Some concerns related to REST apis** :
+
+
+
+**2. Compare and contrast the benefits and disadvantages of using a RESTful architecture vs. a graph query language.** :
+
+| RESTful Architecture                              | Graph Query Language                        |
+| --------------------------------------------------| --------------------------------------------|
+| 1. To fetch all the initial data required by a    | 1. All the initial data required by a view  |
+| view,we need to introduce unstructured parameters | can be fetched by Graph Query Language in   |
+| and conditions that are hard to manage and scale. | just a single round trip to server.         |
+| --------------------------------------------------| --------------------------------------------|
+| 2. 
