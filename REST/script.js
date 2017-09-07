@@ -11,13 +11,13 @@ var urlRoot = "https://api.github.com";
 // NCSU Enterprise endpoint:
 // https://github.ncsu.edu/api/v3
 
-getYourReposAndBranches(userId,"<your-Repo-name>");
+getYourReposBranches(userId,"<your-Repo-name>");
 createNewRepo("<your-Repo-name>");
 createNewIssue(userId,"<your-Repo-name>");
 editRepo(userId, "<your-Repo-name>");
 listReactions(userId, "<your-Repo-name>");
 
-function getYourReposAndBranches(userName,repo)
+function getYourReposBranches(userName,repo)
 {
 	var options = {
 		url: urlRoot + '/users/' + userName + "/repos",
