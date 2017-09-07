@@ -11,11 +11,12 @@ This Repository consists of all the material pertaining to the Submission for HW
 
 ### REST Code
 
-**List Branches** : https://github.ncsu.edu/yvora/HW1/blob/master/REST/branch.js <br/>
-**Create a new Repo** : https://github.ncsu.edu/yvora/HW1/blob/master/REST/createNewRepo.js <br/>
-**Create an issue** : https://github.ncsu.edu/yvora/HW1/blob/master/REST/createIssue.js <br/>
-**Edit a Repo** : https://github.ncsu.edu/yvora/HW1/blob/master/REST/editRepo.js <br/>
-**Listing all Reactions** : https://github.ncsu.edu/yvora/HW1/blob/master/REST/listReactions.js <br/> <br/>
+** The Code for all the functions can be found in [REST/script.js](https://github.ncsu.edu/yvora/HW1/blob/master/REST/script.js) file**
+**List Branches** : func **getYourReposBranches** <br/>
+**Create a new Repo** : func **createNewRepo** <br/>
+**Create an issue** : func **createNewIssue** <br/>
+**Edit a Repo** : func **editRepo** <br/>
+**Listing all Reactions** : func **listReactions** <br/> <br/>
 
 ### Concepts
 
